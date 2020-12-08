@@ -3,3 +3,4 @@ watermark
 transformers
 seaborn
 matplotlib
+sklearn
