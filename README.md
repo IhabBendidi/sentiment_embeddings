@@ -1,6 +1,6 @@
 # sentiment_embeddings
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IhabBendidi/sentiment_embeddings/blob/main/sentiment_embeddings.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IhabBendidi/sentiment_embeddings/blob/main/sentiment_embeddings.ipynb){:target="_blank"}
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 **Authors :** *Ihab Bendidi*, *Yousra Bourkiche*, *Clément Siegrist*, *Kaouter Berrahal*
