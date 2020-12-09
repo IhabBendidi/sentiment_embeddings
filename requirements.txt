@@ -4,3 +4,4 @@ transformers
 seaborn
 matplotlib
 sklearn
+keras-metrics
