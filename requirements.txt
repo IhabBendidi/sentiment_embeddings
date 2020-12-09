@@ -6,3 +6,6 @@ matplotlib
 sklearn
 keras-metrics
 textblob
+nltk
+gensim
+tqdm
