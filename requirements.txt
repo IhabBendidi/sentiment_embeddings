@@ -9,3 +9,4 @@ textblob
 nltk
 gensim
 tqdm
+wordcloud
