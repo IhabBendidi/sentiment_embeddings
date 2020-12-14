@@ -1,4 +1,5 @@
-# A scientific benchmark on the performance of sentiment analysis models in NLP
+# Sentiment Analysis Benchmark
+## A scientific benchmark and comparison of the performance of sentiment analysis models in NLP on small to medium datasets
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IhabBendidi/sentiment_embeddings/blob/main/sentiment_embeddings.ipynb)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/IhabBendidi/sentiment_embeddings/blob/master/LICENSE)
